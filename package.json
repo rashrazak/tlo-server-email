@@ -1,0 +1,17 @@
+{
+  "name": "email-server",
+  "version": "1.0.0",
+  "description": "test email",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "firebase-admin": "^9.5.0",
+    "firebase-functions": "^3.13.2",
+    "nodemailer": "^6.5.0"
+  },
+  "author": "rashdan",
+  "license": "ISC"
+}
